@@ -49,7 +49,7 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1])
       "
       style="grid-template-rows: auto 1fr"
     >
-      <Author />
+      <!-- <Author /> -->
       <div class="divide-y divide-gray-200 xl:pb-0 xl:col-span-3 xl:row-span-2">
         <Content class="prose max-w-none pt-10 pb-8" />
       </div>

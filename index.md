@@ -1,4 +1,4 @@
 ---
-title: The Vue Point
-subtext: Updates, tips & opinions from the maintainers of Vue.js.
+title: Yangming's Blog
+subtext: hello world
 ---
